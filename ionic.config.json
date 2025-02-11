@@ -1,0 +1,7 @@
+{
+  "name": "appCaulculadora",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
